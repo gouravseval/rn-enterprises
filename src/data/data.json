@@ -68,13 +68,26 @@
       "title": "Custom Sheet Metal Forming",
       "description": "Bending, punching, and rolling to create complex 3D shapes from flat sheets.",
       "machinery": "Multi-axis CNC Press Brakes for perfect angles every time."
+    },
+    {
+      "id": "design-2d",
+      "title": "2D Design Service",
+      "description": "Professional 2D drafting and layout design for precision fabrication.",
+      "specs": "CAD-based detailed engineering drawings.",
+      "useCase": "Laser cutting patterns, architectural layouts, and technical diagrams."
+    },
+    {
+      "id": "design-3d",
+      "title": "3D Design Service",
+      "description": "Advanced 3D modeling and rendering for visualization and prototyping.",
+      "specs": "SolidWorks and Fusion 360 modeling.",
+      "useCase": "Product prototypes, complex assemblies, and visual presentations."
     }
   ],
   "industries": [
     { "name": "Automotive", "details": "Brackets, chassis components, and specialized tooling." },
     { "name": "Construction", "details": "Beams, columns, and architectural metalwork." },
     { "name": "Energy", "details": "Solar panel mounting structures and electrical enclosures." },
-    { "name": "Interior Design", "details": "Custom furniture frames, partitions, and signage." },
     { "name": "Manufacturing", "details": "Machine guards, conveyor parts, and assembly line fixtures." }
   ],
   "quality": {
@@ -97,10 +110,9 @@
       { "label": "Message/Requirements", "type": "textarea" }
     ],
     "info": {
-      "address": "[Insert Factory Address]",
-      "phone": "[Insert Primary Contact]",
-      "email": "[Insert Sales Email]",
-      "mapLink": "[Link to Google Maps]"
+      "address": "GAROULI KHURD SEC. 37C OPP. GOVT SCHOOL JANGRA MARKET (GURUGRAM)",
+      "phone": "8708533566",
+      "email": "rnenterprises93@yahoo.com"
     }
   },
   "footer": {

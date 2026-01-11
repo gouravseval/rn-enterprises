@@ -1,4 +1,4 @@
-import { Facebook, Twitter, Linkedin, Instagram, Mail, Phone, MapPin } from 'lucide-react';
+import { Mail, Phone, MapPin } from 'lucide-react';
 import data from '@/data/data.json';
 import logo from '@/assets/logo.png';
 
@@ -47,18 +47,8 @@ const Footer = () => {
               </li>
             </ul>
           </div>
-
-          {/* Social / Newsletter */}
-          <div>
-             <h3 className="text-white font-bold uppercase tracking-wider mb-6">Connect</h3>
-             <div className="flex space-x-4">
-                <a href="#" className="p-2 bg-white/5 rounded-full hover:bg-cyan-500 hover:text-black transition-all"><Linkedin size={20} /></a>
-                <a href="#" className="p-2 bg-white/5 rounded-full hover:bg-cyan-500 hover:text-black transition-all"><Facebook size={20} /></a>
-                <a href="#" className="p-2 bg-white/5 rounded-full hover:bg-cyan-500 hover:text-black transition-all"><Twitter size={20} /></a>
-                <a href="#" className="p-2 bg-white/5 rounded-full hover:bg-cyan-500 hover:text-black transition-all"><Instagram size={20} /></a>
-             </div>
-          </div>
         </div>
+
 
         <div className="border-t border-white/10 pt-8 flex flex-col md:flex-row justify-between items-center text-xs">
           <p>{footer.copyright}</p>
