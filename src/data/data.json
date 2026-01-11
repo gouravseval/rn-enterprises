@@ -1,0 +1,111 @@
+{
+  "brand": {
+    "name": "RN Enterprises",
+    "meaning": "Ready to Next (RN)",
+    "tagline": "Engineering the Next Generation of Metal Solutions.",
+    "philosophy": "We don't just build for today; we fabricate with the future in mind. 'Ready to Next' represents our proactive approach to technology, precision, and partnership."
+  },
+  "hero": {
+    "headline": "Ready to Next: Precision Metal Fabrication for a Modern World.",
+    "subHeadline": "At RN Enterprises, we combine advanced CNC technology with expert craftsmanship to deliver metal components that are durable, precise, and project-ready.",
+    "primaryCta": "Request a Quote",
+    "secondaryCta": "View Our Work"
+  },
+  "features": [
+    {
+      "id": 1,
+      "title": "Next-Gen Technology",
+      "description": "Utilizing the latest fiber laser cutting and robotic welding systems."
+    },
+    {
+      "id": 2,
+      "title": "Ready-to-Assemble Quality",
+      "description": "Our components are delivered with high-tolerance accuracy, ready for immediate integration into your workflow."
+    },
+    {
+      "id": 3,
+      "title": "Future-Proof Durability",
+      "description": "Using premium-grade materials and anti-corrosion treatments that last."
+    }
+  ],
+  "about": {
+    "overview": "RN Enterprises is a leader in metal engineering. From heavy industrial frameworks to intricate custom designs, our 'Ready to Next' philosophy ensures that every project we touch is handled with speed, scalability, and extreme attention to detail.",
+    "philosophyTitle": "Ready to Next",
+    "philosophyDescription": "In an industry that is constantly evolving, RN Enterprises stays ahead. For us, 'RN' means we are always prepared for the next challenge, the next innovation, and the next phase of your project. We bridge the gap between complex engineering drawings and physical reality.",
+    "mission": "To provide high-precision metal fabrication services that empower industries to build better, faster, and stronger.",
+    "vision": "To become the global benchmark for excellence in custom metal engineering and sustainable fabrication.",
+    "values": [
+      { "title": "Precision", "description": "Accuracy is not an option; it is our standard." },
+      { "title": "Innovation", "description": "Constantly upgrading our machinery to offer 'Next' level results." },
+      { "title": "Integrity", "description": "Transparent pricing and honest timelines." },
+      { "title": "Safety", "description": "Ensuring a secure environment for our workers and robust products for our clients." }
+    ]
+  },
+  "services": [
+    {
+      "id": "cnc",
+      "title": "CNC Laser & Plasma Cutting",
+      "description": "We offer high-speed cutting for Stainless Steel, Mild Steel, and Aluminum.",
+      "specs": "Cutting accuracy up to 0.05mm; handling sheets up to 20mm thickness.",
+      "useCase": "Complex industrial parts, decorative panels, and automotive components."
+    },
+    {
+      "id": "steel",
+      "title": "Structural Steel Fabrication",
+      "description": "Heavy-duty fabrication for the construction and infrastructure sectors.",
+      "expertise": "Industrial sheds, PEB (Pre-Engineered Buildings), mezzanines, and staircases.",
+      "standard": "Built to withstand high-stress environments and extreme weather."
+    },
+    {
+      "id": "welding",
+      "title": "Precision Welding (TIG/MIG)",
+      "description": "Specialized welding services for high-strength joints and aesthetic finishes.",
+      "materials": "Specialized in SS 304/316, Aluminum alloys, and carbon steel.",
+      "finishing": "Grinding and polishing for seamless, 'ready-to-show' joints."
+    },
+    {
+      "id": "forming",
+      "title": "Custom Sheet Metal Forming",
+      "description": "Bending, punching, and rolling to create complex 3D shapes from flat sheets.",
+      "machinery": "Multi-axis CNC Press Brakes for perfect angles every time."
+    }
+  ],
+  "industries": [
+    { "name": "Automotive", "details": "Brackets, chassis components, and specialized tooling." },
+    { "name": "Construction", "details": "Beams, columns, and architectural metalwork." },
+    { "name": "Energy", "details": "Solar panel mounting structures and electrical enclosures." },
+    { "name": "Interior Design", "details": "Custom furniture frames, partitions, and signage." },
+    { "name": "Manufacturing", "details": "Machine guards, conveyor parts, and assembly line fixtures." }
+  ],
+  "quality": {
+    "title": "The 'RN' Standard",
+    "description": "Every piece leaving our facility undergoes a rigorous 3-Step Quality Check:",
+    "steps": [
+      { "step": 1, "title": "Material Verification", "description": "Ensuring the raw metal meets grade specifications." },
+      { "step": 2, "title": "In-Process Inspection", "description": "Continuous monitoring during cutting and welding." },
+      { "step": 3, "title": "Final Dimensions Audit", "description": "Using precision measuring tools to confirm 100% blueprint compliance." }
+    ]
+  },
+  "contact": {
+    "headline": "Your 'Next' project starts here.",
+    "formFields": [
+      { "label": "Name", "type": "text" },
+      { "label": "Email/Phone", "type": "text" },
+      { "label": "Material Type", "type": "select", "options": ["MS", "SS", "Aluminum", "Other"] },
+      { "label": "Thickness", "type": "text", "placeholder": "e.g., 2mm, 5mm, 10mm+" },
+      { "label": "Upload Design", "type": "file", "accept": ".cad,.pdf,.dxf" },
+      { "label": "Message/Requirements", "type": "textarea" }
+    ],
+    "info": {
+      "address": "[Insert Factory Address]",
+      "phone": "[Insert Primary Contact]",
+      "email": "[Insert Sales Email]",
+      "mapLink": "[Link to Google Maps]"
+    }
+  },
+  "footer": {
+    "copyright": "© 2026 RN Enterprises. All rights reserved.",
+    "tagline": "Ready to Next.",
+    "links": ["Services", "About", "Gallery", "Terms of Service"]
+  }
+}
