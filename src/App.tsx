@@ -6,6 +6,7 @@ import About from './components/sections/About';
 import Services from './components/sections/Services';
 import Industries from './components/sections/Industries';
 import Quality from './components/sections/Quality';
+import Gallery from './components/sections/Gallery';
 import Contact from './components/sections/Contact';
 import { ToastContainer } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
@@ -22,6 +23,7 @@ function App() {
         <Services />
         <Industries />
         <Quality />
+        <Gallery />
         <Contact />
       </main>
 
