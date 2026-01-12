@@ -45,10 +45,6 @@ const ServiceCard = ({ title, description, index, icon, image, details }: Servic
             <p className="text-xs text-gray-500 group-hover:text-gray-300 transition-colors">{details}</p>
           </div>
         )}
-
-        <div className="mt-4 flex items-center text-cyan-500 text-sm font-medium opacity-0 -translate-x-4 group-hover:opacity-100 group-hover:translate-x-0 transition-all duration-300">
-          Learn More <ArrowRight className="ml-2 w-4 h-4" />
-        </div>
       </div>
     </motion.div>
   );
