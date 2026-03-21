@@ -25,7 +25,7 @@ const Home = () => {
     toast.success("This is the success message");
     toast.info("This is the info message");
     toast.warning("This is the warning message");
-  })
+  });
 
   return (
     <div className="min-h-screen bg-background p-8">
@@ -48,11 +48,10 @@ const Home = () => {
         </div>
       </div>
 
-<div className="flex gap-2 p-4">
-
-      <DemoError />
-      <DemoSuspense />
-</div>
+      <div className="flex gap-2 p-4">
+        <DemoError />
+        <DemoSuspense />
+      </div>
 
       <Separator className="my-6" />
 
