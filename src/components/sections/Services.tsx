@@ -4,7 +4,7 @@ import data from '@/data/data.json';
 import { Layers, Cuboid, Flame, Hammer } from 'lucide-react';
 import cncImg from '@/assets/service-cnc.png';
 import weldingImg from '@/assets/service-welding.png';
-import steelImg from '@/assets/hero.png'; // Fallback/reuse
+import steelImg from '@/assets/tigWelding.jpg'; // Fallback/reuse
 
 const icons = {
   cnc: Layers,
